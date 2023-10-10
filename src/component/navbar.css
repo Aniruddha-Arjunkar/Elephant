@@ -1,0 +1,18 @@
+.nav{
+    background-color: rgb(40, 33, 33);
+    width: 100%;
+    padding: 3vh;
+}
+
+.nav-brand{
+    letter-spacing: 11px;
+    color: aliceblue;
+    display: inline;
+    margin: 0 5vh;
+}
+
+.nav-item{
+       color: white;
+       margin-right: 5vh;
+       text-decoration: none;
+}

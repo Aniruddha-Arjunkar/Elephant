@@ -1,0 +1,13 @@
+.home-text{
+    padding: 5%;
+    color: rgb(12, 11, 11);
+    width: 96%;
+    height: 100vh;
+    background-color: bisque;
+}
+
+.para{
+    font-weight: bold;
+    font-size: medium;
+    margin-top: -15px;
+}
