@@ -3,9 +3,9 @@ export default function Navbar(){
     return(
         <div className="nav">
             <h1 className="nav-brand">elephant</h1>
-            <a className="nav-item" href="">HOME</a>
-            <a className="nav-item" href="">ABOUT</a>
-            <a className="nav-item" href="">CONTACT</a>
+            <a href="/" className="nav-item">HOME</a>
+            <a href="/about" className="nav-item">ABOUT</a>
+            <a href="/contact" className="nav-item">CONTACT</a>
         </div>
     );
 }
